@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitesh15180/Nitesh15180/blob/main/wallpaperCodee.jpg)
 <h1 align="center">Hi 👋, I'm Nitesh Vadaje</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
